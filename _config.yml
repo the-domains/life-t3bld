@@ -1,0 +1,18 @@
+typography_spectrum: 0.0058184361550956964
+color:
+  brandStrength: 0.06310845189727843
+  lightness: 0.6061350891832262
+  saturation: 0.44890324189327657
+  rhythmicContrast: 0.8033785305451602
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+github: true
+layout_spectrum: 0.8865803540684283
+name: Life
+title: ''
+content: []
+description: ''
